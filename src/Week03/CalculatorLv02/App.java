@@ -1,4 +1,4 @@
-package Week03.CalculatorHomework02;
+package Week03.CalculatorLv02;
 
 import java.util.Scanner;
 
